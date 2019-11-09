@@ -25,4 +25,4 @@
 
 可以添加如下微信，备注 Scala 中国社区，加你入群:
 
-[!scala中国社区小助手](assets/images/assistant.jpeg)
+![scala中国社区小助手](assets/images/assistant.jpeg)
